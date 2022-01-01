@@ -18,4 +18,27 @@
     src: url(assets\fonts\SecularOne-Regular.ttf);
 }
 
+* {
+    box-sizing: border-box;
+  }
 
+  header { 
+    border: 1px solid red;
+  }
+  
+  nav {
+    border: 1px solid red;
+  }
+
+  main {
+    border: 1px solid red;
+  }
+
+  aside {
+    border: 1px solid red;
+  }
+
+  footer {
+    border: 1px solid red;
+  }
+  
