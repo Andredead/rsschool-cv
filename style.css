@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Anton;
+    src: url(assets\fonts\Anton-Regular.ttf);
+}
+
+@font-face {
+    font-family: Kaushan;
+    src: url(assets\fonts\KaushanScript-Regular.ttf);
+}
+
+@font-face {
+    font-family: Luxurious;
+    src: url(assets\fonts\LuxuriousRoman-Regular.ttf);
+}
+
+@font-face {
+    font-family: Secular;
+    src: url(assets\fonts\SecularOne-Regular.ttf);
+}
+
+
