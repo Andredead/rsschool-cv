@@ -68,10 +68,13 @@
   }
 
   .nav-link {
+    font-size:30px;
+    font-family: sans-serif;
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
     text-decoration: none;
+    color: rgba(148, 12, 238, 0.589);
   }
 
   .section-item a {
@@ -85,8 +88,10 @@
   }
 
   .main-container {
-    display: flex;
+    display:flex ;
     flex-wrap: wrap;
+    min-height: 100vh;
+    justify-content: space-evenly;
   }
 
   .section {
@@ -108,11 +113,11 @@
   }
 
   .section-title {
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 40px;
+    font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 5px;
-    color:rgb(231, 163, 17)
+    letter-spacing: 8px;
+    color:rgba(17, 49, 231, 0.486)
   }
 
   .link {
@@ -125,8 +130,15 @@
     color:aqua
   }
 
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+  }
 
-
-
-
-
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    color: azure;
+  }
+  
+   
