@@ -1,22 +1,3 @@
-@font-face {
-    font-family: Anton;
-    src: url(assets\fonts\Anton-Regular.ttf);
-}
-
-@font-face {
-    font-family: Kaushan;
-    src: url(assets\fonts\KaushanScript-Regular.ttf);
-}
-
-@font-face {
-    font-family: Luxurious;
-    src: url(assets\fonts\LuxuriousRoman-Regular.ttf);
-}
-
-@font-face {
-    font-family: Secular;
-    src: url(assets\fonts\SecularOne-Regular.ttf);
-}
 
 * {
     box-sizing: border-box;
@@ -24,25 +5,8 @@
 
   header {
     text-align: center;
-    border: 1px solid red;
   }
   
-  nav {
-    border: 1px solid red;
-  }
-
-  main {
-    border: 1px solid red;
-  }
-
-  aside {
-    border: 1px solid red;
-  }
-
-  footer {
-    border: 1px solid red;
-  }
-
   body {
     min-height: 100vh;
     margin: 0; padding: 0;
