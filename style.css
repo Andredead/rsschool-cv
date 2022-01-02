@@ -55,3 +55,8 @@
       margin: 0 auto;
   }
   
+  .nav-list {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+  }
