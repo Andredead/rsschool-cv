@@ -140,5 +140,11 @@
     justify-content: space-between;
     color: azure;
   }
+
+  .pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+  }
   
    
